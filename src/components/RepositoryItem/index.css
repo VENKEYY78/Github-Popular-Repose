@@ -1,0 +1,77 @@
+.each-language-item {
+  height: 300px;
+  width: 200px;
+  background-size: cover;
+  background-color: #f8f8ff;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+}
+
+.language-img {
+  width: 110px;
+  height: 110px;
+  margin: 0px;
+  padding: 10px;
+}
+
+.name-heading {
+  font-weight: 700;
+  font-family: 'Roboto';
+  color: #e73959;
+  font-size: 23px;
+  margin-bottom: 0px;
+}
+
+.container {
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 0px;
+  padding: 0px;
+}
+
+.star-img {
+  height: 20px;
+}
+
+.stars-count {
+  font-size: 15px;
+  font-family: 'Roboto';
+  font-weight: 400;
+  color: #1e293b;
+  padding-left: 10px;
+}
+
+.forks-img {
+  height: 20px;
+}
+
+.forks-count {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 15px;
+  color: #1e293b;
+  padding-left: 10px;
+}
+
+.open-issus-img {
+  height: 20px;
+}
+
+.issues-count {
+  font-size: 15px;
+  font-family: 'Roboto';
+  font-weight: 400;
+  color: #1e293b;
+  padding-left: 10px;
+}
+
+.ratings-container {
+  margin-top: 0px;
+  padding-top: 0px;
+}
